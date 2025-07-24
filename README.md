@@ -70,14 +70,14 @@
       Chào mừng bạn đến với dự án <b>Addon Auction House MCPE</b>!<br>
       Đây là addon giúp bạn tạo hệ thống đấu giá trong Minecraft Bedrock Edition (MCPE).
     </p>
-    <a class="github-link" href="https://github.com/Datkiri/Addon-Auction-House-MCPE" target="_blank">
-      Xem trên GitHub
+    <a class="github-link" href="https://youtu.be/aJlxq-dqvAI?si=ThLQTZrfIVk9UOV4" target="_blank">
+      Xem trên Youtube
     </a>
     <ul class="features">
       <li>✅ Đấu giá vật phẩm tự động trong game</li>
       <li>✅ Giao diện thân thiện, dễ sử dụng</li>
-      <li>✅ Tùy chỉnh dễ dàng cho máy chủ của bạn</li>
-      <li>✅ Hỗ trợ Minecraft Bedrock Edition mới nhất</li>
+      <li>✅ Tùy chỉnh dễ dàng cho thế giới của bạn</li>
+      <li>✅ Hỗ trợ Minecraft Bedrock Edition 1.21.90+</li>
       <li>✅ Nhiều tính năng nâng cao cho quản trị viên</li>
     </ul>
   </div>
